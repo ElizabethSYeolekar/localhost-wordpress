@@ -1,0 +1,2 @@
+# localhost-wordpress
+localhost/wordpress
